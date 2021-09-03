@@ -1,5 +1,5 @@
 # ruby-hangman
-Gangman game made with ruby.
+Hangman game made with ruby.
 
 # İnstallation Ruby
 You have to download ruby from this [link](https://rubyinstaller.org/) to run this application.
